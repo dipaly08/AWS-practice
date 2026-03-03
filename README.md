@@ -1,4 +1,4 @@
-# AWS-practice
+# AWS-practice topics
 01 - vpc create
 02 - ip assign private & public
 03 - routing
