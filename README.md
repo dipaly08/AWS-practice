@@ -1,1 +1,12 @@
 # AWS-practice
+├── README.md
+├── aws-account.md
+├── vpc.md
+├── subnet.md
+├── routing.md
+├── nat-gateway.md
+├── nacl.md
+├── ec2.md
+├── security-group.md
+├── vpc-peering.md
+└── pricing.md
