@@ -1,0 +1,22 @@
+# AWS IAM (Identity and Access Management) Activity
+  
+### 🔹 What I Covered
+• Difference between Root user and IAM user  
+• Creating IAM users  
+• Creating IAM groups  
+• Attaching IAM policies  
+• Assigning roles for secure access
+ 
+### 📝 Key Points
+• IAM controls who can access AWS resources.  
+• Root user has full account control — should not be used regularly.  
+• IAM users are individual identities with specific permissions.  
+• Groups help manage multiple users with same permissions.  
+• Roles allow services (EC2, Lambda) to get temporary access.
+ 
+### 🛠 Practice
+• Created IAM user  
+• Assigned user to group with limited permissions  
+• Enabled Multi-Factor Authentication (MFA)
+ 
+This activity strengthened my understanding of AWS security basics.
