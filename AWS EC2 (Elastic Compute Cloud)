@@ -1,12 +1,26 @@
 ## What is EC2?
 EC2 is a virtual server in AWS.
  
-## Steps to Launch EC2
-1. Choose AMI
-2. Select instance type (t2.micro for free tier)
-3. Create key pair
-4. Configure security group
-5. Launch instance
+### 🔹 What I Covered
+• What is EC2  
+• Instance types (t2.micro, t3.micro)  
+• AMI (Amazon Machine Image)  
+• Key pairs for SSH access  
+• Security Groups configuration  
+• Public vs Private EC2 deployment  
  
-## Security Group
-Acts as a firewall for EC2.
+### 📝 Key Points
+• EC2 is a virtual machine running in AWS.  
+• Instance type defines CPU, RAM, and performance.  
+• AMI is a template used to launch instances.  
+• Key Pair is required to securely connect via SSH.  
+• Security Group acts as a stateful firewall.  
+• Public EC2 has internet access; Private EC2 does not.
+ 
+### 🛠 Hands-on Practice
+• Launched an EC2 instance (Amazon Linux)  
+• Selected t2.micro (Free Tier)  
+• Created and downloaded a key pair  
+• Allowed SSH (Port 22) and HTTP (Port 80)  
+• Connected to EC2 using SSH  
+
