@@ -16,6 +16,21 @@ A VPC is a private network in AWS where you launch resources like EC2.
 - NAT Gateway
 - NACL
 - Security Group
+
+### 📝 Key Points
+• A **VPC** is a logically isolated private network in AWS.  
+• Public subnet can access the internet through Internet Gateway.  
+• Private subnet does not have direct internet access.  
+• NAT Gateway allows private subnet instances to access internet (for updates).  
+• Route tables define how traffic flows in your network.  
+• Security Groups are stateful firewalls at instance level.  
+• NACLs are stateless firewalls at subnet level.
+ 
+### 🛠 Practice
+• Created a VPC with CIDR 10.0.0.0/16  
+• Created subnets (public + private)  
+• Attached an Internet Gateway  
+• Configured route tables  
  
 ## Simple Example
 - VPC CIDR: 10.0.0.0/16
