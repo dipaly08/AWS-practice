@@ -1,0 +1,10 @@
+## What is Security Group?
+Security group is a stateful firewall attached to EC2.
+ 
+## Example Rules
+- SSH (Port 22)
+- HTTP (Port 80)
+ 
+## Difference from NACL
+- Security Group → Instance level
+- NACL → Subnet level
