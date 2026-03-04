@@ -1,0 +1,9 @@
+## Pricing Model
+AWS follows pay-as-you-go model.
+ 
+## Free Tier Includes
+- EC2 t2.micro (750 hours/month)
+- 5GB S3 storage
+ 
+## Important
+Always stop and delete resources after practice to avoid charges.
