@@ -1,0 +1,10 @@
+## What is NAT Gateway?
+NAT Gateway allows instances in private subnet to access the internet.
+ 
+## Why It Is Needed?
+Private instances need internet for:
+- Updates
+- Software installation
+ 
+## Important
+NAT Gateway is a paid service.
