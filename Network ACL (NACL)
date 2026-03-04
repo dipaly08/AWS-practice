@@ -1,0 +1,7 @@
+## What is NACL?
+Network Access Control List is a subnet-level firewall.
+ 
+## Key Points
+- Stateless
+- Controls inbound and outbound traffic
+- Works at subnet level
