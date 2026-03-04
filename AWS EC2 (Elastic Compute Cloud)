@@ -1,0 +1,12 @@
+## What is EC2?
+EC2 is a virtual server in AWS.
+ 
+## Steps to Launch EC2
+1. Choose AMI
+2. Select instance type (t2.micro for free tier)
+3. Create key pair
+4. Configure security group
+5. Launch instance
+ 
+## Security Group
+Acts as a firewall for EC2.
