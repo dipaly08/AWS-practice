@@ -1,0 +1,9 @@
+## What is Subnet?
+A subnet is a smaller network inside a VPC.
+ 
+## Types of Subnets
+1. Public Subnet – Has internet access
+2. Private Subnet – No direct internet access
+ 
+## Why Subnet is Used?
+To organize and secure resources inside a VPC.
