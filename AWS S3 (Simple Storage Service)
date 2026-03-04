@@ -1,0 +1,21 @@
+### 🔹 What I Covered
+• What is S3  
+• Bucket creation  
+• Object upload  
+• Storage classes  
+• Versioning  
+• Public vs Private bucket  
+ 
+### 📝 Key Points
+• S3 is object-based storage.  
+• Data is stored inside Buckets.  
+• Each file stored is called an Object.  
+• S3 supports different storage classes (Standard, IA, Glacier).  
+• Versioning helps protect from accidental deletion.  
+• By default, S3 buckets are private.
+ 
+### 🛠 Hands-on Practice
+• Created a new S3 bucket  
+• Uploaded files  
+• Enabled versioning  
+• Tested object access permissions  
