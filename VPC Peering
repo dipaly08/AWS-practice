@@ -1,0 +1,8 @@
+## What is VPC Peering?
+VPC peering connects two VPCs privately.
+ 
+## Important Condition
+- CIDR blocks must not overlap.
+ 
+## Use Case
+Communication between different VPC networks.
