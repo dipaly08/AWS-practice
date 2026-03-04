@@ -1,0 +1,24 @@
+# AWS Cloud Computing – Basics Activity
+ 
+Today I learned the foundational concepts of **AWS Cloud Computing**.
+ 
+### 🔹 What I Covered
+• What is cloud computing  
+• What is AWS (Amazon Web Services)  
+• AWS global infrastructure  
+• Regions and Availability Zones  
+• Free Tier and pricing basics
+ 
+### 📝 Key Points
+• Cloud computing means renting compute, storage, networking on demand.  
+• AWS provides services like EC2, S3, VPC, IAM, RDS.  
+• Regions are geographic locations (e.g., Mumbai, Singapore, USA).  
+• Availability Zones are separate datacenters in a region.  
+• Free Tier gives limited free usage for 12 months to new accounts.
+ 
+### 🛠 Practice
+• Created AWS account  
+• Explored AWS Management Console  
+• Navigated Services menu and regions  
+ 
+This activity helps me solidify my understanding of AWS basics.
