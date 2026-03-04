@@ -1,0 +1,17 @@
+# AWS Account Creation
+ 
+## What is AWS?
+AWS (Amazon Web Services) is a cloud computing platform that provides servers, storage, networking, and many other services.
+ 
+## Steps to Create AWS Account
+1. Go to https://aws.amazon.com
+2. Click "Create an AWS Account"
+3. Enter email and password
+4. Add billing details (card required)
+5. Complete phone verification
+6. Choose Free Tier plan
+ 
+## Important Notes
+- AWS works on pay-as-you-go model.
+- Free tier is available for 12 months.
+- Always stop/delete unused resources to avoid charges.
