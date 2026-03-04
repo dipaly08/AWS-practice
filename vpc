@@ -1,4 +1,4 @@
-# AWS VPC (Virtual Private Cloud)
+# VPC (Virtual Private Cloud)
  
 ## What is VPC?
 A VPC is a private network in AWS where you launch resources like EC2.
