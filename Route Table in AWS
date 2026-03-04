@@ -1,0 +1,8 @@
+## What is Route Table?
+A route table controls traffic flow inside the VPC.
+ 
+## Important Route
+0.0.0.0/0 → Internet Gateway
+ 
+## Purpose
+Allows public subnet to access the internet.
